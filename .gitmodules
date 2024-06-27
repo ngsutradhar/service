@@ -1,3 +1,6 @@
 [submodule "service_angular"]
 	path = service_angular
 	url = https://github.com/ngsutradhar/service_angular.git
+[submodule "service_api"]
+	path = service_api
+	url = https://github.com/ngsutradhar/service_api.git
