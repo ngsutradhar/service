@@ -1,6 +1,9 @@
-[submodule "service_angular"]
-	path = service_angular
-	url = https://github.com/ngsutradhar/service_angular.git
-[submodule "service_api"]
-	path = service_api
-	url = https://github.com/ngsutradhar/service_api.git
+[submodule "institution_2023_angular"]
+	path = institution_2023_angular
+	url = https://github.com/mounitbhandari/institution_2023_angular.git
+[submodule "institution_2023_api"]
+	path = institution_2023_api
+	url = https://github.com/mounitbhandari/institution_2023_api.git
+[submodule "production_service"]
+	path = production_service
+	url = https://github.com/ngsutradhar/production_service.git
